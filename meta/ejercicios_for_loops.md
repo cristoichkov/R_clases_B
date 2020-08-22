@@ -64,15 +64,16 @@ Tip.- Utiliza el siguiente operador %%, ejemplo 10 %% 2 == 0
 
 5.- Crea un data frame de 8x2 que contenga dos columnas una para organismos y otra de que tipo son (animales o plantas)  
 
-Organismo  Tipo
-Pirul      Planta
-Rana       Animal
-Gato       Animal
-Girasol    Planta
-Cactus     Planta
-Perro      Animal
-Humano     Animal
-Palma      Planta
+|Organismo  |Tipo|
+|---------|------|
+|Pirul|   Planta|
+|Rana|       Animal|
+|Gato|       Animal|
+|Girasol|    Planta|
+|Cactus|     Planta|
+|Perro|      Animal|
+|Humano|     Animal|
+|Palma|      Planta|
 
 Crea un for loop en donde imprima lo siguiente:
 
